@@ -4,7 +4,6 @@
 //
 //  Created by Mirshad Oz on 9/22/18.
 //  Copyright © 2018 Mirshad Oz. All rights reserved.
-//
 
 import UIKit
 
